@@ -1,9 +1,4 @@
 spring:
-  redis:
-    host: 112.216.59.210
-    port: 9980
-    timeout : 500
-    password : depth1004
      
   mvc:
     view:
